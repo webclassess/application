@@ -1,0 +1,37 @@
+
+.wrapper {	
+	margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.form-signin {
+  max-width: 25%;
+  padding: 15px 35px 45px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,0.1);  
+}
+ 
+.form-registration
+{
+  max-width: 50%;
+  padding: 15px 35px 45px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.form-control {
+	  position: relative;
+	  font-size: 16px;
+	  height: auto;
+	  padding: 10px;
+	
+}
+.bg1{ background-color:#999;}
+.bg2{ background-color:#CCC; }
+.bg3{ background-color:#06F; }
+.select{ padding:1% 0; cursor:pointer;}
+.show, .selected{ padding:1% 0;}
+
+.views input, .views select	{pointer-events: none;    background-color: #eae5e5;}
